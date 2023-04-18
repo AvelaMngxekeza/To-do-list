@@ -1,0 +1,182 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-color: #D01111;
+}
+
+.squaremini{
+    height: 39px;
+    width: 1px;
+    background-color: black;
+    position: relative;
+    margin-top: -50px;
+    margin-left: 90px;
+}
+
+h1{
+    height: 41px;
+    width: 243px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    position: relative;
+    margin-top: -60px;
+    margin-left: 90px;
+}
+
+.squarefirst{
+    height: 60px;
+    width: 330px;
+    background-color: grey;
+    position: relative;
+    margin-top: 110px;
+    margin-left: 70px;
+}
+
+.squareblack{
+    height: 60px;
+    width: 330px;
+    background-color: grey;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 70px;
+    border-radius:50px ;
+    z-index: -1;
+}
+
+.squarethird{
+    height: 60px;
+    width: 330px;
+    background-color: grey;
+    position: relative;
+    margin-top: 60px;
+    margin-left: 70px;
+}
+
+.head{
+    height: 41px;
+    width: 243px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    margin-top: -280px;
+    margin-left: 80px;
+}
+
+.head2{
+    height: 41px;
+    width: 243px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.head3{
+    height: 41px;
+    width: 243px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.icons{
+    position: relative;
+    margin-top: -285px;
+    margin-left: 350px;
+    color: black;
+}
+
+.icons2{
+    position: relative;
+    margin-top: 95px;
+    margin-left: 350px;
+    color: white;
+}
+
+.icons3{
+    position: relative;
+    margin-top: 95px;
+    margin-left: 350px;
+    color: white;
+}
+
+.add{
+    position: relative;
+    margin-top: 35px;
+    margin-left: 80px;
+    height: 23px;
+    color: white;
+}
+
+#button1{
+    height: 90px;
+    width: 352px;
+    border-radius: 50px;
+    background-color: grey;
+    position: relative;
+    margin-top: 60px;
+    margin-left: 55px;
+}
+
+.circle
+from {
+    background-color: #424242;
+    left: 50px;
+}
+to {
+    background-color: #424242;
+    left: 100px;
+}
+
+div{
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+
+.logo{
+    height: 41px;
+    width: 243px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: blue;
+    position: relative;
+    margin-top: -60px;
+    margin-left: 180px;
+}
+
+.text{
+    height: 90px;
+    width: 352px;
+    background-color: #424242;
+    color: #424242;
+    border-radius: 50px;
+    position: relative;
+    margin-top: 60px;
+    margin-left: 19px;
+}
+
+.button2{
+    border: none;
+    background-color: white;
+    border-radius: 50px;
+    color: white;
+    font-size: 10px;
+    font-weight: 300;
+    
+}
+
